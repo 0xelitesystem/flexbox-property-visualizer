@@ -1,12 +1,12 @@
-# CSS Flexbox Playground
+# Flexbox Property Visualizer
 
 An interactive CSS flexbox visualizer. Adjust the container and per-item flex properties, watch a live preview update, and copy the generated CSS. Everything runs in your browser with no external dependencies and works offline.
 
-**Live demo:** https://0xelitesystem.github.io/css-flexbox-playground/
+**Live demo:** https://0xelitesystem.github.io/flexbox-property-visualizer/
 
 ## Live demo
 
-https://0xelitesystem.github.io/css-flexbox-playground/
+https://0xelitesystem.github.io/flexbox-property-visualizer/
 
 ## Features
 
@@ -42,8 +42,8 @@ The one thing the page saves is your light or dark theme choice, written to `loc
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/css-flexbox-playground
-cd css-flexbox-playground
+git clone https://github.com/0xelitesystem/flexbox-property-visualizer
+cd flexbox-property-visualizer
 ```
 
 Then open `index.html` in any modern browser, or serve the folder with `python -m http.server` and visit http://localhost:8000/.
